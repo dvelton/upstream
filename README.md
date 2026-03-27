@@ -1,5 +1,7 @@
 # upstream
 
+A little tool to steer a user into systems/process thinking. 
+
 A prompt that analyzes your AI usage patterns, finds the recurring ones, and tells you what to fix so they stop recurring. You paste it into whatever AI tool you already use. It looks at your conversation history and produces a structured diagnosis.
 
 ## How to use it
