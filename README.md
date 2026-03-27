@@ -24,7 +24,7 @@ The [`examples/`](examples/) directory has full sample analyses for each role, i
 
 ## Contributing
 
-Improvements to the prompt, new role preambles, and realistic examples are welcome. App wrappers and automation are not. See the [examples](examples/) for the bar on quality.
+Improvements to the prompt, new role preambles, and realistic examples are welcome.  
 
 ## License
 
