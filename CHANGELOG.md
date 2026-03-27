@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.1.0
+
+- Revised core prompt to use conversation history directly instead of requiring manual prompt collection. The prompt now tells the AI to analyze the current session (and cross-session memory if available), with optional additional prompts pasted below.
+- Shortened README significantly.
+
 ## v1.0.0
 
 Initial release.

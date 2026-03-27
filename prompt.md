@@ -1,16 +1,20 @@
 [ROLE CONTEXT, IF ANY, GOES ABOVE THIS LINE]
 
-Below is my recent AI prompt history: the things I've actually typed into AI tools over a recent period. I want you to analyze these prompts for recurring patterns and identify the upstream structural fixes that would eliminate the recurrence.
+Analyze my recent AI usage for recurring patterns and identify the upstream structural fixes that would eliminate the recurrence.
+
+Look at our conversation history in this session. If this tool has memory of past conversations, use that too. You're looking for the things I keep asking AI to help with. If I've also pasted additional prompts or notes below, include those in the analysis.
 
 This is not a prompt engineering review. Don't optimize my prompts. The goal is to find the repeating queries that signal a missing artifact, an unresolved process gap, a skills deficit, or some other structural condition, and then recommend the one-time fix that makes those queries unnecessary.
 
 ## What I'm Providing
 
-**Required:** My recent prompt history. These may be exact transcripts, rough notes, or paraphrased summaries. 20-50 prompts is ideal, but work with whatever I provide.
+**Primary input:** The conversation history already available to you in this session (and across sessions, if your memory allows). This is the main source material.
+
+**Additional input (optional):** I may paste extra prompts below — from other AI tools, rough notes, or paraphrased summaries of things I've asked elsewhere. Fold these into the analysis alongside the conversation history.
 
 **Optional:** A one-sentence description of my role or professional context. If I don't include one, infer it from the content and flag the uncertainty in your analysis.
 
-**Optional:** My approximate AI usage frequency and the timeframe these prompts cover (e.g., "these are from the past two months, I use AI 5-10 times a day"). If I don't include this, make a cautious inference from the sample size and state your assumption explicitly.
+**Optional:** My approximate AI usage frequency and the timeframe these prompts cover (e.g., "these are from the past two months, I use AI 5-10 times a day"). If I don't include this, make a cautious inference from what's visible and state your assumption explicitly.
 
 ## Handling Varying Input Quality
 
@@ -80,4 +84,4 @@ Close with a brief note that this analysis is designed to make itself unnecessar
 
 ---
 
-**My prompt history follows below.**
+**Additional prompts or notes, if any, follow below.**
